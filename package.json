@@ -15,7 +15,7 @@
   "author": "Eduardo Messuti",
   "license": "ISC",
   "devDependencies": {
-    "babel-jest": "^21.2.0",
+    "babel-jest": "^30.0.5",
     "extract-text-webpack-plugin": "^3.0.2",
     "jest": "^21.2.1",
     "react-test-renderer": "^16.0.0",
